@@ -21,7 +21,7 @@ const Carousel = ({
   }, []);
 
   return (
-    <div className="max-w-[1400px] mx-auto p-2 my-4">
+    <div className="max-w-[1380px] mx-auto p-4 my-4">
       <div className="overflow-hidden relative rounded-3xl">
         <div
           className="flex transition-transform ease-out duration-500"
